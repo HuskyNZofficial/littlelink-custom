@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'd9ccad6c7e5dd2e8630c29a8b4003a9b83b49924',
+        'reference' => '8ad6b5a2237e49c82c9d5935f8e4e6cc7d8b8b15',
         'name' => 'julianprieber/littlelink-custom',
         'dev' => true,
     ),
@@ -412,7 +412,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'd9ccad6c7e5dd2e8630c29a8b4003a9b83b49924',
+            'reference' => '8ad6b5a2237e49c82c9d5935f8e4e6cc7d8b8b15',
             'dev_requirement' => false,
         ),
         'kodova/hamcrest-php' => array(
@@ -838,8 +838,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0',
-                1 => '1.0.0 || 2.0.0 || 3.0.0',
+                0 => '1.0.0 || 2.0.0 || 3.0.0',
+                1 => '1.0|2.0',
             ),
         ),
         'psr/simple-cache' => array(
